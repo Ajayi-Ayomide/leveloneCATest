@@ -17,9 +17,13 @@ body{
     background-color: #f0f2fe;
     padding-top: 10%;
 }
-
-.carrrds .hover{
-    color: navy;
+ .hr{
+    color: gold;
+ }
+.card:hover{
+    color:white;
+    background-color: navy;
+    cursor: pointer;
 }
 .four{
     background-color:#e5ebfb;
